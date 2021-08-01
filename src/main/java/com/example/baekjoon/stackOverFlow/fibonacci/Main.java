@@ -1,4 +1,4 @@
-package com.example.baekjoon.fibonacci;
+package com.example.baekjoon.stackOverFlow.fibonacci;
 
 import java.util.Scanner;
 

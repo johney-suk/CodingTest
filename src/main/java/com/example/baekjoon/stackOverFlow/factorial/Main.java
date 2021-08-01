@@ -1,4 +1,4 @@
-package com.example.baekjoon.factorial;
+package com.example.baekjoon.stackOverFlow.factorial;
 
 import java.util.Scanner;
 

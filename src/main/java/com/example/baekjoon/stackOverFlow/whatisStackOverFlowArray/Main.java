@@ -1,4 +1,4 @@
-package com.example.baekjoon.whatisStackOverFlowArray;
+package com.example.baekjoon.stackOverFlow.whatisStackOverFlowArray;
 
 import java.util.Scanner;
 
