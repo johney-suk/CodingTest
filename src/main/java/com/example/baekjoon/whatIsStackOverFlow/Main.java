@@ -34,7 +34,8 @@ public class Main {
         underbar += "____";
             whatIs(num - 1);
 
-
+        //line*3 까진 알겠는데
+        //왜 줄어드는지 모르겠음
 System.out.println(line + "라고 답변하였지.");
 
 
